@@ -567,6 +567,7 @@ body.offcanvas .fh5co-nav-toggle {
 }
 
 .blog-entry {
+  word-break: break-all;
   width: 100%;
   display: block;
   background: #FFF url("../../static/images/white_wall_hash.jpg");
