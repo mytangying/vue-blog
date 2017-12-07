@@ -61,7 +61,6 @@
       this.$http.get(this.domain + 'blog/pagination/' + this.param + '/8').then(response => {
         this.data = response.data
         this.dbdata = response.data
-        console.log(this.data)
       }, response => {
         console.log('error')
       })
