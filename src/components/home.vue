@@ -33,7 +33,7 @@
               <div class="row">
                 <div class="col-sm-12 text-center js-fullheight slider-text">
                   <div class="slider-text-inner">
-                    <h1>保持良好的态度看世界</h1>
+                    <h1>向下滑动开始 Let's Go</h1>
                   </div>
                 </div>
               </div>

@@ -7,8 +7,7 @@
         </div>
         <div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
           <h2 class="fh5co-heading">About Blog</h2>
-          <!--<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Quisque sit amet efficitur nih. Interdum et malesuada fames ac ante ipsum primis in faucibus interda et malesuada parturient.</p>-->
-          <!--<p>Quisque sit amet efficitur nih. Interdum et malesuada fames ac ante ipsum primis in faucibus interda et malesuada parturient.</p>-->
+          <p>此博客用来记录我们的点滴成长，如果某篇文章能够帮到大家，将会更加开心。今天之前是个梦，今天之后是个迷，让我们珍惜当下，一起成长❤️</p>
         </div>
       </div>
     </div>
